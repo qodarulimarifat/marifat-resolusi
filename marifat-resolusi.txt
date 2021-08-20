@@ -1,0 +1,4 @@
+MARIFAT RESOLUSI
+1. Belajar bahasa program dasar
+2. Belajar web automation test
+3. Latihan web automate test
